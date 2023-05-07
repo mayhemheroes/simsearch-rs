@@ -1,0 +1,5 @@
+project: simsearch-rs
+target: fuzzy_search
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_fuzzy_search
